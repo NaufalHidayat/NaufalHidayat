@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhidayat&label=Profile%20views&color=0e75b6&style=flat" NaufalHidayat" /> </p>
 
-- 🌱 I’m currently learning **JS Framework (React, Solid, Node), Laravel, GOLANG(NEWEST)**
+- 🌱 I’m currently learning **JS Framework (React, Solid, Node), Laravel**
 
 - ⚡ Fun fact **I like Front-End but i loved Back-End**
 
